@@ -1,11 +1,9 @@
-## Welcome to GitHub Pages
+<h1> Cosmeticos naturais </h1>
 
-You can use the [editor on GitHub](https://github.com/Ferlindo123/fercosmetics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p> nossa missão é te ajudar da melhor forma a ter auto-estima e vaidade proporcionando bem-estar e qualidade de vida. </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+# 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
